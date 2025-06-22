@@ -1,0 +1,2394 @@
+MIDI File: Carly Rae Jepsen - Call Me Maybe.mid
+Tempo: 119 BPM
+Time Signature: 4/4
+Total Tracks (in source MIDI): 5
+Consolidated Instrument Tracks: 4
+
+Instrument: Drum Kit / Percussion
+  Note: B1 (Acoustic Bass Drum), Time: 0.49s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 0.49s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 1.00s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 1.00s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 1.50s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 1.50s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 2.01s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 2.01s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 2.51s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 2.51s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 3.01s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 3.01s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 3.52s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 3.52s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 4.02s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 4.02s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 4.53s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 4.53s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 5.03s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 5.03s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 5.54s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 5.54s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 6.04s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 6.04s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 6.54s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 6.54s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 7.05s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 7.05s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 7.55s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 7.55s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 8.06s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 8.06s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 8.56s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 8.56s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 9.07s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 9.07s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 9.57s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 9.57s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 10.07s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 10.07s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 10.58s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 10.58s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 11.08s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 11.08s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 11.59s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 11.59s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 12.09s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 12.09s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 12.59s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 12.59s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 13.10s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 13.10s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 13.60s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 13.60s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 14.11s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 14.11s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 14.61s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 14.61s, Duration: 0.13s, Velocity: 0.39
+  Note: D3 (High Tom), Time: 14.61s, Duration: 0.06s, Velocity: 0.39
+  Note: D3 (High Tom), Time: 14.67s, Duration: 0.06s, Velocity: 0.39
+  Note: D3 (High Tom), Time: 14.74s, Duration: 0.06s, Velocity: 0.39
+  Note: C3 (High-Mid Tom), Time: 14.80s, Duration: 0.06s, Velocity: 0.39
+  Note: C3 (High-Mid Tom), Time: 14.86s, Duration: 0.06s, Velocity: 0.39
+  Note: C3 (High-Mid Tom), Time: 14.93s, Duration: 0.06s, Velocity: 0.39
+  Note: B2 (Low-Mid Tom), Time: 14.99s, Duration: 0.06s, Velocity: 0.39
+  Note: B2 (Low-Mid Tom), Time: 15.05s, Duration: 0.06s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 15.12s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 15.12s, Duration: 0.13s, Velocity: 0.39
+  Note: B2 (Low-Mid Tom), Time: 15.12s, Duration: 0.06s, Velocity: 0.39
+  Note: A2 (Low Tom), Time: 15.18s, Duration: 0.06s, Velocity: 0.39
+  Note: A2 (Low Tom), Time: 15.24s, Duration: 0.06s, Velocity: 0.39
+  Note: G2 (High Floor Tom), Time: 15.30s, Duration: 0.06s, Velocity: 0.39
+  Note: A2 (Low Tom), Time: 15.30s, Duration: 0.06s, Velocity: 0.39
+  Note: G2 (High Floor Tom), Time: 15.37s, Duration: 0.06s, Velocity: 0.39
+  Note: F2 (Low Floor Tom), Time: 15.43s, Duration: 0.06s, Velocity: 0.39
+  Note: G2 (High Floor Tom), Time: 15.43s, Duration: 0.06s, Velocity: 0.39
+  Note: F2 (Low Floor Tom), Time: 15.49s, Duration: 0.06s, Velocity: 0.39
+  Note: F2 (Low Floor Tom), Time: 15.56s, Duration: 0.06s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 15.62s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 15.62s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 15.87s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 15.87s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 16.12s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 16.12s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 16.38s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 16.38s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 16.63s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 16.63s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 17.13s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 17.13s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 17.64s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 17.64s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 18.14s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 18.14s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 18.64s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 18.64s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 19.15s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 19.15s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 19.65s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 19.65s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 20.16s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 20.16s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 20.66s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 20.66s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 21.17s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 21.17s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 21.67s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 21.67s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 22.17s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 22.17s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 22.68s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 22.68s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 23.18s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 23.18s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 23.69s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 23.69s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 24.19s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 24.19s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 24.70s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 24.70s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 25.20s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 25.20s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 25.70s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 25.70s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 26.21s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 26.21s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 26.71s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 26.71s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 27.22s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 27.22s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 27.72s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 27.72s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 28.22s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 28.22s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 28.73s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 28.73s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 29.23s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 29.23s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 29.74s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 29.74s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 30.24s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 30.24s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 30.75s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 30.75s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 31.25s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 31.25s, Duration: 0.13s, Velocity: 0.39
+
+Instrument: Electric Bass
+  Note: D4, Time: 0.49s, Duration: 0.13s, Velocity: 0.39
+  Note: E4, Time: 0.62s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 0.87s, Duration: 0.38s, Velocity: 0.39
+  Note: D4, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 2.26s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 2.51s, Duration: 0.13s, Velocity: 0.39
+  Note: E4, Time: 2.64s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 2.89s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 3.27s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 3.27s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 4.28s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 4.53s, Duration: 0.25s, Velocity: 0.39
+  Note: C5, Time: 4.78s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 5.03s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 6.29s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 6.54s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 6.80s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 7.05s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 7.30s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 8.06s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 8.56s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 8.56s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 8.81s, Duration: 0.13s, Velocity: 0.39
+  Note: G4, Time: 8.94s, Duration: 0.38s, Velocity: 0.39
+  Note: D4, Time: 9.32s, Duration: 0.38s, Velocity: 0.39
+  Note: D4, Time: 10.58s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 10.83s, Duration: 0.13s, Velocity: 0.39
+  Note: E4, Time: 10.96s, Duration: 0.13s, Velocity: 0.39
+  Note: B4, Time: 11.08s, Duration: 0.76s, Velocity: 0.39
+  Note: G4, Time: 11.84s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 12.34s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 12.59s, Duration: 0.25s, Velocity: 0.39
+  Note: C5, Time: 12.85s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 13.10s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 14.36s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 14.61s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 14.86s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 15.12s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 15.37s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 16.12s, Duration: 0.50s, Velocity: 0.39
+  Note: G4, Time: 16.38s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 16.63s, Duration: 0.13s, Velocity: 0.39
+  Note: E4, Time: 16.75s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 17.01s, Duration: 0.38s, Velocity: 0.39
+  Note: D4, Time: 17.38s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 18.39s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 18.64s, Duration: 0.13s, Velocity: 0.39
+  Note: E4, Time: 18.77s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 19.02s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 19.40s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 19.40s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 20.41s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 20.66s, Duration: 0.25s, Velocity: 0.39
+  Note: C5, Time: 20.91s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 21.17s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 21.42s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 22.43s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 22.68s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 22.93s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 23.18s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 23.43s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 24.19s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 24.70s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 24.70s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 24.95s, Duration: 0.13s, Velocity: 0.39
+  Note: G4, Time: 25.07s, Duration: 0.38s, Velocity: 0.39
+  Note: D4, Time: 25.45s, Duration: 0.38s, Velocity: 0.39
+  Note: D4, Time: 26.71s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 26.96s, Duration: 0.13s, Velocity: 0.39
+  Note: E4, Time: 27.09s, Duration: 0.13s, Velocity: 0.39
+  Note: B4, Time: 27.22s, Duration: 0.76s, Velocity: 0.39
+  Note: G4, Time: 27.97s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 28.48s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 28.73s, Duration: 0.25s, Velocity: 0.39
+  Note: C5, Time: 28.98s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 29.23s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 29.49s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 30.49s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 30.75s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 31.00s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 31.25s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 31.50s, Duration: 0.25s, Velocity: 0.39
+
+Instrument: High Strings (Violin, Viola, etc.)
+  Note: E4, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 1.75s, Duration: 0.25s, Velocity: 0.39
+  Note: F#4, Time: 1.75s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 1.75s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 2.01s, Duration: 0.25s, Velocity: 0.39
+  Note: F#4, Time: 2.01s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 2.01s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 3.27s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 3.27s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 3.77s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 3.77s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 4.02s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 4.02s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: F#4, Time: 5.79s, Duration: 0.25s, Velocity: 0.39
+  Note: F#4, Time: 6.04s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 7.05s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 7.05s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 7.55s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 7.55s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 8.06s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 9.32s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 9.32s, Duration: 0.25s, Velocity: 0.39
+  Note: F#4, Time: 9.82s, Duration: 0.25s, Velocity: 0.39
+  Note: G6, Time: 14.61s, Duration: 0.06s, Velocity: 0.39
+  Note: F#6, Time: 14.67s, Duration: 0.06s, Velocity: 0.39
+  Note: E6, Time: 14.74s, Duration: 0.06s, Velocity: 0.39
+  Note: D6, Time: 14.80s, Duration: 0.06s, Velocity: 0.39
+  Note: C6, Time: 14.86s, Duration: 0.06s, Velocity: 0.39
+  Note: B5, Time: 14.93s, Duration: 0.06s, Velocity: 0.39
+  Note: A5, Time: 14.99s, Duration: 0.06s, Velocity: 0.39
+  Note: G5, Time: 15.05s, Duration: 0.06s, Velocity: 0.39
+  Note: G6, Time: 15.12s, Duration: 0.06s, Velocity: 0.39
+  Note: F#6, Time: 15.18s, Duration: 0.06s, Velocity: 0.39
+  Note: E6, Time: 15.24s, Duration: 0.06s, Velocity: 0.39
+  Note: D6, Time: 15.30s, Duration: 0.06s, Velocity: 0.39
+  Note: C6, Time: 15.37s, Duration: 0.06s, Velocity: 0.39
+  Note: B5, Time: 15.43s, Duration: 0.06s, Velocity: 0.39
+  Note: A5, Time: 15.49s, Duration: 0.06s, Velocity: 0.39
+  Note: G5, Time: 15.56s, Duration: 0.06s, Velocity: 0.39
+
+Instrument: Piano (Consolidated)
+  Note: E3, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: B4, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: B4, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 0.50s, Duration: 0.13s, Velocity: 0.39
+  Note: D5, Time: 0.50s, Duration: 0.13s, Velocity: 0.39
+  Note: E5, Time: 0.63s, Duration: 0.25s, Velocity: 0.39
+  Note: E5, Time: 0.63s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 0.87s, Duration: 0.38s, Velocity: 0.39
+  Note: G5, Time: 0.87s, Duration: 0.38s, Velocity: 0.39
+  Note: E3, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 1.75s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 1.77s, Duration: 0.25s, Velocity: 0.39
+  Note: F#3, Time: 1.77s, Duration: 0.25s, Velocity: 0.39
+  Note: A3, Time: 1.77s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 2.01s, Duration: 0.50s, Velocity: 0.39
+  Note: D3, Time: 2.02s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 2.02s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 2.02s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 2.26s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 2.26s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 2.52s, Duration: 0.13s, Velocity: 0.39
+  Note: D5, Time: 2.52s, Duration: 0.13s, Velocity: 0.39
+  Note: E5, Time: 2.65s, Duration: 0.25s, Velocity: 0.39
+  Note: E5, Time: 2.65s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 2.89s, Duration: 0.38s, Velocity: 0.39
+  Note: D5, Time: 2.89s, Duration: 0.38s, Velocity: 0.39
+  Note: B5, Time: 2.89s, Duration: 0.38s, Velocity: 0.39
+  Note: B5, Time: 2.89s, Duration: 0.38s, Velocity: 0.39
+  Note: E3, Time: 3.26s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 3.26s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 3.26s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 3.26s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 3.26s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 3.26s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 3.26s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 3.26s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 3.78s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 3.78s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 3.78s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 3.78s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 4.03s, Duration: 0.50s, Velocity: 0.39
+  Note: E3, Time: 4.03s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 4.03s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 4.03s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 4.28s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 4.28s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 4.53s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 4.53s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 4.53s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 4.53s, Duration: 0.25s, Velocity: 0.39
+  Note: C5, Time: 4.78s, Duration: 0.25s, Velocity: 0.39
+  Note: C6, Time: 4.78s, Duration: 0.25s, Velocity: 0.39
+  Note: C6, Time: 4.78s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 4.78s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 4.78s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 5.03s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 5.03s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 5.03s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 5.03s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 5.80s, Duration: 0.25s, Velocity: 0.39
+  Note: F#3, Time: 5.80s, Duration: 0.25s, Velocity: 0.39
+  Note: A3, Time: 5.80s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 5.80s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 6.05s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 6.05s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 6.05s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 6.05s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 6.30s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 6.30s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 6.55s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 6.55s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 6.80s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 6.80s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 7.05s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 7.05s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 7.05s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 7.05s, Duration: 0.50s, Velocity: 0.39
+  Note: A5, Time: 7.05s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 7.05s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 7.30s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 7.30s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 7.55s, Duration: 0.50s, Velocity: 0.39
+  Note: B4, Time: 8.06s, Duration: 0.50s, Velocity: 0.39
+  Note: C3, Time: 8.07s, Duration: 0.50s, Velocity: 0.39
+  Note: E3, Time: 8.07s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 8.07s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 8.07s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 8.07s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 8.07s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 8.07s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 8.07s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 8.56s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 8.56s, Duration: 0.25s, Velocity: 0.39
+  Note: E5, Time: 8.82s, Duration: 0.13s, Velocity: 0.39
+  Note: E5, Time: 8.82s, Duration: 0.13s, Velocity: 0.39
+  Note: G5, Time: 8.94s, Duration: 0.38s, Velocity: 0.39
+  Note: G5, Time: 8.94s, Duration: 0.38s, Velocity: 0.39
+  Note: E3, Time: 9.31s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 9.31s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 9.31s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 9.31s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 9.32s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 9.32s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 9.83s, Duration: 0.25s, Velocity: 0.39
+  Note: F#3, Time: 9.83s, Duration: 0.25s, Velocity: 0.39
+  Note: A3, Time: 9.83s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 9.83s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 10.08s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 10.08s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 10.08s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 10.08s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 10.58s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 10.58s, Duration: 0.25s, Velocity: 0.39
+  Note: E5, Time: 10.83s, Duration: 0.25s, Velocity: 0.39
+  Note: E5, Time: 10.83s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 11.08s, Duration: 0.76s, Velocity: 0.39
+  Note: D5, Time: 11.08s, Duration: 0.76s, Velocity: 0.39
+  Note: D5, Time: 11.08s, Duration: 0.76s, Velocity: 0.39
+  Note: G5, Time: 11.08s, Duration: 0.76s, Velocity: 0.39
+  Note: G5, Time: 11.08s, Duration: 0.76s, Velocity: 0.39
+  Note: B5, Time: 11.08s, Duration: 0.76s, Velocity: 0.39
+  Note: B5, Time: 11.08s, Duration: 0.76s, Velocity: 0.39
+  Note: C3, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 12.35s, Duration: 1.01s, Velocity: 0.39
+  Note: G5, Time: 12.35s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 12.35s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 12.60s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 12.60s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 12.60s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 12.60s, Duration: 0.25s, Velocity: 0.39
+  Note: C5, Time: 12.85s, Duration: 0.25s, Velocity: 0.39
+  Note: C6, Time: 12.85s, Duration: 0.25s, Velocity: 0.39
+  Note: C6, Time: 12.85s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 12.85s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 12.85s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 13.10s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 13.10s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 13.10s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 13.10s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 13.87s, Duration: 0.25s, Velocity: 0.39
+  Note: F#3, Time: 13.87s, Duration: 0.25s, Velocity: 0.39
+  Note: A3, Time: 13.87s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 13.87s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 14.12s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 14.12s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 14.12s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 14.12s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 14.37s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 14.37s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 14.61s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 14.62s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 14.86s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 15.12s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 15.12s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 15.12s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 15.12s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 15.12s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 15.37s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 15.62s, Duration: 0.50s, Velocity: 0.39
+  Note: C3, Time: 15.87s, Duration: 0.50s, Velocity: 0.39
+  Note: B5, Time: 16.12s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 16.13s, Duration: 0.50s, Velocity: 0.39
+  Note: E3, Time: 16.13s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 16.13s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 16.13s, Duration: 0.50s, Velocity: 0.39
+  Note: B4, Time: 16.13s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 16.13s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 16.13s, Duration: 0.50s, Velocity: 0.39
+  Note: C3, Time: 16.38s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 16.63s, Duration: 0.13s, Velocity: 0.39
+  Note: E5, Time: 16.76s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 17.01s, Duration: 0.38s, Velocity: 0.39
+  Note: E3, Time: 17.38s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 17.38s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 17.38s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 17.38s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 17.38s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 17.90s, Duration: 0.25s, Velocity: 0.39
+  Note: F#3, Time: 17.90s, Duration: 0.25s, Velocity: 0.39
+  Note: A3, Time: 17.90s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 17.90s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 18.15s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 18.15s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 18.15s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 18.15s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 18.40s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 18.65s, Duration: 0.13s, Velocity: 0.39
+  Note: E5, Time: 18.78s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 19.02s, Duration: 0.38s, Velocity: 0.39
+  Note: B5, Time: 19.02s, Duration: 0.38s, Velocity: 0.39
+  Note: G3, Time: 19.40s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 19.40s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 19.40s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 19.40s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 19.40s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 19.40s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 19.92s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 19.92s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 19.92s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 19.92s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 20.17s, Duration: 0.50s, Velocity: 0.39
+  Note: E3, Time: 20.17s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 20.17s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 20.17s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 20.42s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 20.67s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 20.67s, Duration: 0.25s, Velocity: 0.39
+  Note: C6, Time: 20.91s, Duration: 0.25s, Velocity: 0.39
+  Note: C5, Time: 20.92s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 20.92s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 21.17s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 21.17s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 21.42s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 21.42s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 21.42s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 21.42s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 21.42s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 21.42s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 21.93s, Duration: 0.25s, Velocity: 0.39
+  Note: F#3, Time: 21.93s, Duration: 0.25s, Velocity: 0.39
+  Note: A3, Time: 21.93s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 21.93s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 22.18s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 22.18s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 22.18s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 22.18s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 22.43s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 22.68s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 22.93s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 23.18s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 23.18s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 23.18s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 23.18s, Duration: 0.50s, Velocity: 0.39
+  Note: A5, Time: 23.18s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 23.43s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 23.68s, Duration: 0.50s, Velocity: 0.39
+  Note: C4, Time: 23.69s, Duration: 0.50s, Velocity: 0.39
+  Note: C3, Time: 24.20s, Duration: 0.50s, Velocity: 0.39
+  Note: E3, Time: 24.20s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 24.20s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 24.20s, Duration: 0.50s, Velocity: 0.39
+  Note: B4, Time: 24.20s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 24.20s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 24.20s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 24.70s, Duration: 0.25s, Velocity: 0.39
+  Note: E5, Time: 24.95s, Duration: 0.13s, Velocity: 0.39
+  Note: G5, Time: 25.07s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 25.33s, Duration: 0.13s, Velocity: 0.39
+  Note: G3, Time: 25.45s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 25.45s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 25.45s, Duration: 0.25s, Velocity: 0.39
+  Note: E5, Time: 25.45s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 25.45s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 25.97s, Duration: 0.25s, Velocity: 0.39
+  Note: F#3, Time: 25.97s, Duration: 0.25s, Velocity: 0.39
+  Note: A3, Time: 25.97s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 25.97s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 26.22s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 26.22s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 26.22s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 26.22s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 26.72s, Duration: 0.25s, Velocity: 0.39
+  Note: E5, Time: 26.97s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 27.22s, Duration: 0.76s, Velocity: 0.39
+  Note: D5, Time: 27.22s, Duration: 0.76s, Velocity: 0.39
+  Note: G5, Time: 27.22s, Duration: 0.76s, Velocity: 0.39
+  Note: B5, Time: 27.22s, Duration: 0.76s, Velocity: 0.39
+  Note: C3, Time: 27.98s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 27.98s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 27.98s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 27.98s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 27.98s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 27.98s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 27.98s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 28.48s, Duration: 1.01s, Velocity: 0.39
+  Note: G5, Time: 28.48s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 28.73s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 28.73s, Duration: 0.25s, Velocity: 0.39
+  Note: C5, Time: 28.98s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 28.98s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 29.23s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 29.23s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 29.48s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 29.48s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 29.48s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 29.48s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 29.48s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 29.48s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 30.00s, Duration: 0.25s, Velocity: 0.39
+  Note: F#3, Time: 30.00s, Duration: 0.25s, Velocity: 0.39
+  Note: A3, Time: 30.00s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 30.00s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 30.25s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 30.25s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 30.25s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 30.25s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 30.50s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 30.75s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 30.75s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 30.75s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 30.75s, Duration: 0.50s, Velocity: 0.39
+  Note: B5, Time: 30.75s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 31.00s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 31.00s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 31.25s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 31.50s, Duration: 0.25s, Velocity: 0.39
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MIDI File: Payphone.mid
+Tempo: 110 BPM
+Time Signature: 4/4
+Total Tracks (in source MIDI): 6
+Consolidated Instrument Tracks: 3
+
+Instrument: Drum Kit / Percussion
+  Note: B1 (Acoustic Bass Drum), Time: 18.55s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 18.55s, Duration: 0.55s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 19.09s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 19.09s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 19.09s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 19.64s, Duration: 0.55s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 19.64s, Duration: 0.27s, Velocity: 0.28
+  Note: E2 (Electric Snare), Time: 19.91s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 20.18s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 20.18s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 20.18s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 20.73s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 20.73s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 21.27s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 21.27s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 21.27s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 21.82s, Duration: 0.55s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 21.82s, Duration: 0.27s, Velocity: 0.28
+  Note: E2 (Electric Snare), Time: 22.09s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 22.36s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 22.36s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 22.36s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 22.91s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 22.91s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 23.45s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 23.45s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 23.45s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 24.00s, Duration: 0.55s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 24.00s, Duration: 0.27s, Velocity: 0.28
+  Note: E2 (Electric Snare), Time: 24.27s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 24.55s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 24.55s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 24.55s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 25.09s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 25.09s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 25.64s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 25.64s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 25.64s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 26.18s, Duration: 0.55s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 26.18s, Duration: 0.27s, Velocity: 0.28
+  Note: E2 (Electric Snare), Time: 26.45s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 26.73s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 26.73s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 26.73s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 27.27s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 27.27s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 27.82s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 27.82s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 27.82s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 28.36s, Duration: 0.55s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 28.36s, Duration: 0.27s, Velocity: 0.28
+  Note: E2 (Electric Snare), Time: 28.64s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 28.91s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 28.91s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 28.91s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 29.45s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 29.45s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 30.00s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 30.00s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 30.00s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 30.55s, Duration: 0.55s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 30.55s, Duration: 0.27s, Velocity: 0.28
+  Note: E2 (Electric Snare), Time: 30.82s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 31.09s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 31.09s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 31.09s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 31.64s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 31.64s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 32.18s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 32.18s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 32.18s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 32.73s, Duration: 0.55s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 32.73s, Duration: 0.27s, Velocity: 0.28
+  Note: E2 (Electric Snare), Time: 33.00s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 33.27s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 33.27s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 33.27s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 33.82s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 33.82s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 34.36s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 34.36s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 34.36s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 34.91s, Duration: 0.55s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 34.91s, Duration: 0.27s, Velocity: 0.28
+  Note: E2 (Electric Snare), Time: 35.18s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 35.45s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 35.45s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 35.45s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 36.00s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 36.00s, Duration: 0.27s, Velocity: 0.09
+  Note: A3 (Crash Cymbal 2), Time: 36.00s, Duration: 0.55s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 36.55s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 36.55s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 36.55s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 37.09s, Duration: 0.55s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 37.09s, Duration: 0.27s, Velocity: 0.28
+  Note: E2 (Electric Snare), Time: 37.36s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 37.64s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 37.64s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 37.64s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 38.18s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 38.18s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 38.73s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 38.73s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 38.73s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 39.27s, Duration: 0.55s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 39.27s, Duration: 0.27s, Velocity: 0.28
+  Note: E2 (Electric Snare), Time: 39.55s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 39.82s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 39.82s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 39.82s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 40.36s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 40.36s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 40.91s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 40.91s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 40.91s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 41.45s, Duration: 0.55s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 41.45s, Duration: 0.27s, Velocity: 0.28
+  Note: E2 (Electric Snare), Time: 41.73s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 42.00s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 42.00s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 42.00s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 42.55s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 42.55s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 43.09s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 43.09s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 43.09s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 43.64s, Duration: 0.55s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 43.64s, Duration: 0.27s, Velocity: 0.28
+  Note: E2 (Electric Snare), Time: 43.91s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 44.18s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 44.18s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 44.18s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 44.73s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 44.73s, Duration: 0.27s, Velocity: 0.09
+  Note: A3 (Crash Cymbal 2), Time: 44.73s, Duration: 0.55s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 45.27s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 45.27s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 45.27s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 45.82s, Duration: 0.55s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 45.82s, Duration: 0.27s, Velocity: 0.28
+  Note: E2 (Electric Snare), Time: 46.09s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 46.36s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 46.36s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 46.36s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 46.91s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 46.91s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 47.45s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 47.45s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 47.45s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 48.00s, Duration: 0.55s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 48.00s, Duration: 0.27s, Velocity: 0.28
+  Note: E2 (Electric Snare), Time: 48.27s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 48.55s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 48.55s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 48.55s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 49.09s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 49.09s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 49.64s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 49.64s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 49.64s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 50.18s, Duration: 0.55s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 50.18s, Duration: 0.27s, Velocity: 0.28
+  Note: E2 (Electric Snare), Time: 50.45s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 50.73s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 50.73s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 50.73s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 51.27s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 51.27s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 51.82s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 51.82s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 51.82s, Duration: 0.27s, Velocity: 0.28
+  Note: E2 (Electric Snare), Time: 52.36s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 52.36s, Duration: 0.27s, Velocity: 0.28
+  Note: A2 (Low Tom), Time: 52.64s, Duration: 0.27s, Velocity: 0.09
+  Note: F2 (Low Floor Tom), Time: 52.91s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 52.91s, Duration: 0.27s, Velocity: 0.28
+  Note: B1 (Acoustic Bass Drum), Time: 53.18s, Duration: 0.55s, Velocity: 0.09
+  Note: A3 (Crash Cymbal 2), Time: 53.18s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 53.45s, Duration: 0.27s, Velocity: 0.09
+  Note: B1 (Acoustic Bass Drum), Time: 53.73s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 53.73s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 54.00s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 54.00s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 54.00s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 54.27s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 54.27s, Duration: 0.27s, Velocity: 0.26
+  Note: G#2 (Pedal Hi-Hat), Time: 54.55s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 54.55s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 54.82s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 54.82s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 54.82s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 55.09s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 55.09s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 55.09s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 55.36s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 55.36s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 55.64s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 55.64s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 55.91s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 55.91s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 56.18s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 56.18s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 56.18s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 56.45s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 56.45s, Duration: 0.27s, Velocity: 0.26
+  Note: G#2 (Pedal Hi-Hat), Time: 56.73s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 56.73s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 57.00s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 57.00s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 57.00s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 57.27s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 57.27s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 57.27s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 57.55s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 57.55s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 57.82s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 57.82s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 58.09s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 58.09s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 58.36s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 58.36s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 58.36s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 58.64s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 58.64s, Duration: 0.27s, Velocity: 0.26
+  Note: G#2 (Pedal Hi-Hat), Time: 58.91s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 58.91s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 59.18s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 59.18s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 59.18s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 59.45s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 59.45s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 59.45s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 59.73s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 59.73s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 60.00s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 60.00s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 60.27s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 60.27s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 60.55s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 60.55s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 60.55s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 60.82s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 60.82s, Duration: 0.27s, Velocity: 0.26
+  Note: G#2 (Pedal Hi-Hat), Time: 61.09s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 61.09s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 61.36s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 61.36s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 61.36s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 61.64s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 61.64s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 61.64s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 61.91s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 61.91s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 62.18s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 62.18s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 62.45s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 62.45s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 62.73s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 62.73s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 62.73s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 63.00s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 63.00s, Duration: 0.27s, Velocity: 0.26
+  Note: G#2 (Pedal Hi-Hat), Time: 63.27s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 63.27s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 63.55s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 63.55s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 63.55s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 63.82s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 63.82s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 63.82s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 64.09s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 64.09s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 64.36s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 64.36s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 64.64s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 64.64s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 64.91s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 64.91s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 64.91s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 65.18s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 65.18s, Duration: 0.27s, Velocity: 0.26
+  Note: G#2 (Pedal Hi-Hat), Time: 65.45s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 65.45s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 65.73s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 65.73s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 65.73s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 66.00s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 66.00s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 66.00s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 66.27s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 66.27s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 66.55s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 66.55s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 66.82s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 66.82s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 67.09s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 67.09s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 67.09s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 67.36s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 67.36s, Duration: 0.27s, Velocity: 0.26
+  Note: G#2 (Pedal Hi-Hat), Time: 67.64s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 67.64s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 67.91s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 67.91s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 67.91s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 68.18s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 68.18s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 68.18s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 68.45s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 68.45s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 68.73s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 68.73s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 69.00s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 69.00s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 69.27s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 69.27s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 69.27s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 69.55s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 69.55s, Duration: 0.27s, Velocity: 0.26
+  Note: G#2 (Pedal Hi-Hat), Time: 69.82s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 69.82s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 70.09s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 70.09s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 70.09s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 70.36s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 70.36s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 70.36s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 70.64s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 70.64s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 70.91s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 70.91s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 71.18s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 71.18s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 71.45s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 71.45s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 71.45s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 71.73s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 71.73s, Duration: 0.27s, Velocity: 0.26
+  Note: G#2 (Pedal Hi-Hat), Time: 72.00s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 72.00s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 72.27s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 72.27s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 72.27s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 72.55s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 72.55s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 72.55s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 72.82s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 72.82s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 73.09s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 73.09s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 73.36s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 73.36s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 73.64s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 73.64s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 73.64s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 73.91s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 73.91s, Duration: 0.27s, Velocity: 0.26
+  Note: G#2 (Pedal Hi-Hat), Time: 74.18s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 74.18s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 74.45s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 74.45s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 74.45s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 74.73s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 74.73s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 74.73s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 75.00s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 75.00s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 75.27s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 75.27s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 75.55s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 75.55s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 75.82s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 75.82s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 75.82s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 76.09s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 76.09s, Duration: 0.27s, Velocity: 0.26
+  Note: G#2 (Pedal Hi-Hat), Time: 76.36s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 76.36s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 76.64s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 76.64s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 76.64s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 76.91s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 76.91s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 76.91s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 77.18s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 77.18s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 77.45s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 77.45s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 77.73s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 77.73s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 78.00s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 78.00s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 78.00s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 78.27s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 78.27s, Duration: 0.27s, Velocity: 0.26
+  Note: G#2 (Pedal Hi-Hat), Time: 78.55s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 78.55s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 78.82s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 78.82s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 78.82s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 79.09s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 79.09s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 79.09s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 79.36s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 79.36s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 79.64s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 79.64s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 79.91s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 79.91s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 80.18s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 80.18s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 80.18s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 80.45s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 80.45s, Duration: 0.27s, Velocity: 0.26
+  Note: G#2 (Pedal Hi-Hat), Time: 80.73s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 80.73s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 81.00s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 81.00s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 81.00s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 81.27s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 81.27s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 81.27s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 81.55s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 81.55s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 81.82s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 81.82s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 82.09s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 82.09s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 82.36s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 82.36s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 82.36s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 82.64s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 82.64s, Duration: 0.27s, Velocity: 0.26
+  Note: G#2 (Pedal Hi-Hat), Time: 82.91s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 82.91s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 83.18s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 83.18s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 83.18s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 83.45s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 83.45s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 83.45s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 83.73s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 83.73s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 84.00s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 84.00s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 84.27s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 84.27s, Duration: 0.27s, Velocity: 0.26
+  Note: E2 (Electric Snare), Time: 84.55s, Duration: 0.27s, Velocity: 0.09
+  Note: G#2 (Pedal Hi-Hat), Time: 84.55s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 84.55s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 84.82s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 84.82s, Duration: 0.27s, Velocity: 0.26
+  Note: G#2 (Pedal Hi-Hat), Time: 85.09s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 85.09s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 85.36s, Duration: 0.55s, Velocity: 0.09
+  Note: E2 (Electric Snare), Time: 85.36s, Duration: 0.27s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 85.36s, Duration: 0.27s, Velocity: 0.26
+  Note: G#2 (Pedal Hi-Hat), Time: 85.64s, Duration: 0.27s, Velocity: 0.28
+  Note: D#3 (Ride Cymbal 1), Time: 85.64s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 85.91s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 85.91s, Duration: 0.27s, Velocity: 0.26
+  Note: D#3 (Ride Cymbal 1), Time: 86.18s, Duration: 0.27s, Velocity: 0.26
+  Note: B1 (Acoustic Bass Drum), Time: 86.45s, Duration: 0.55s, Velocity: 0.09
+  Note: D#3 (Ride Cymbal 1), Time: 86.45s, Duration: 0.27s, Velocity: 0.26
+  Note: D#3 (Ride Cymbal 1), Time: 86.73s, Duration: 0.27s, Velocity: 0.26
+
+Instrument: High Guitar (Acoustic Steel, Electric Lead)
+  Note: E4, Time: 1.09s, Duration: 0.27s, Velocity: 0.14
+  Note: E4, Time: 1.36s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 1.64s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 1.91s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 2.18s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 2.45s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 2.73s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 3.00s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 3.27s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 3.55s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 3.82s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 4.09s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 4.36s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 4.64s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 4.91s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 5.18s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 5.45s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 5.73s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 6.00s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 6.27s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 6.55s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 6.82s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 7.09s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 7.36s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 7.64s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 7.91s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 8.18s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 8.45s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 8.73s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 9.00s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 9.27s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 9.55s, Duration: 0.27s, Velocity: 0.14
+  Note: E4, Time: 9.82s, Duration: 0.27s, Velocity: 0.14
+  Note: E4, Time: 10.09s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 10.36s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 10.64s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 10.91s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 11.18s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 11.45s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 11.73s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 12.00s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 12.27s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 12.55s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 12.82s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 13.09s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 13.36s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 13.64s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 13.91s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 14.18s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 14.45s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 14.73s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 15.00s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 15.27s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 15.55s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 15.82s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 16.09s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 16.36s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 16.64s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 16.91s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 17.18s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 17.45s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 17.73s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 18.00s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 18.27s, Duration: 0.27s, Velocity: 0.14
+  Note: E4, Time: 18.55s, Duration: 0.27s, Velocity: 0.14
+  Note: E4, Time: 18.82s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 19.09s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 19.36s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 19.64s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 19.91s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 20.18s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 20.45s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 20.73s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 21.00s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 21.27s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 21.55s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 21.82s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 22.09s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 22.36s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 22.64s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 22.91s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 23.18s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 23.45s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 23.73s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 24.00s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 24.27s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 24.55s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 24.82s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 25.09s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 25.36s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 25.64s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 25.91s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 26.18s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 26.45s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 26.73s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 27.00s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 27.27s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 27.55s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 27.82s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 28.09s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 28.36s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 28.64s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 28.91s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 29.18s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 29.45s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 29.73s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 30.00s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 30.27s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 30.55s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 30.82s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 31.09s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 31.36s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 31.64s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 31.91s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 32.18s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 32.45s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 32.73s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 33.00s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 33.27s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 33.55s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 33.82s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 34.09s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 34.36s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 34.64s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 34.91s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 35.18s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 35.45s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 35.73s, Duration: 0.27s, Velocity: 0.14
+  Note: E4, Time: 36.00s, Duration: 0.27s, Velocity: 0.14
+  Note: E4, Time: 36.27s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 36.55s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 36.82s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 37.09s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 37.36s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 37.64s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 37.91s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 38.18s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 38.45s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 38.73s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 39.00s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 39.27s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 39.55s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 39.82s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 40.09s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 40.36s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 40.64s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 40.91s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 41.18s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 41.45s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 41.73s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 42.00s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 42.27s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 42.55s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 42.82s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 43.09s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 43.36s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 43.64s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 43.91s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 44.18s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 44.45s, Duration: 0.27s, Velocity: 0.14
+  Note: E4, Time: 44.73s, Duration: 0.27s, Velocity: 0.14
+  Note: E4, Time: 45.00s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 45.27s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 45.55s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 45.82s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 46.09s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 46.36s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 46.64s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 46.91s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 47.18s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 47.45s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 47.73s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 48.00s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 48.27s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 48.55s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 48.82s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 49.09s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 49.36s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 49.64s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 49.91s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 50.18s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 50.45s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 50.73s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 51.00s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 51.27s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 51.55s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 51.82s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 52.09s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 52.36s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 52.64s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 52.91s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 53.18s, Duration: 0.27s, Velocity: 0.14
+  Note: E4, Time: 53.45s, Duration: 0.27s, Velocity: 0.14
+  Note: E4, Time: 53.73s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 54.00s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 54.27s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 54.55s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 54.82s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 55.09s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 55.36s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 55.64s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 55.91s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 56.18s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 56.45s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 56.73s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 57.00s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 57.27s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 57.55s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 57.82s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 58.09s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 58.36s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 58.64s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 58.91s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 59.18s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 59.45s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 59.73s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 60.00s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 60.27s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 60.55s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 60.82s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 61.09s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 61.36s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 61.64s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 61.91s, Duration: 0.27s, Velocity: 0.14
+  Note: E4, Time: 62.18s, Duration: 0.27s, Velocity: 0.14
+  Note: E4, Time: 62.45s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 62.73s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 63.00s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 63.27s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 63.55s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 63.82s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 64.09s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 64.36s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 64.64s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 64.91s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 65.18s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 65.45s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 65.73s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 66.00s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 66.27s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 66.55s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 66.82s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 67.09s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 67.36s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 67.64s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 67.91s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 68.18s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 68.45s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 68.73s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 69.00s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 69.27s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 69.55s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 69.82s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 70.09s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 70.36s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 70.64s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 71.45s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 71.73s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 72.00s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 72.27s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 72.55s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 72.82s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 73.09s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 73.36s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 73.64s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 73.91s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 74.18s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 74.45s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 74.73s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 75.00s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 75.27s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 75.55s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 75.82s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 76.09s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 76.36s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 76.64s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 76.91s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 77.18s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 77.45s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 77.73s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 78.00s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 78.27s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 78.55s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 78.82s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 79.09s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 79.36s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 80.18s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 80.45s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 80.73s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 81.00s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 81.27s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 81.55s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 81.82s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 82.09s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 82.36s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 82.64s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 82.91s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 83.18s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 83.45s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 83.73s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 84.00s, Duration: 0.27s, Velocity: 0.14
+  Note: D#4, Time: 84.27s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 84.55s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 84.82s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 85.09s, Duration: 0.27s, Velocity: 0.14
+  Note: G#3, Time: 85.36s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 85.64s, Duration: 0.27s, Velocity: 0.14
+  Note: B3, Time: 85.91s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 86.18s, Duration: 0.27s, Velocity: 0.14
+  Note: C#4, Time: 86.45s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 86.73s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 87.00s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 87.27s, Duration: 0.27s, Velocity: 0.14
+  Note: F#3, Time: 87.55s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 87.82s, Duration: 0.27s, Velocity: 0.14
+  Note: A#3, Time: 88.09s, Duration: 0.27s, Velocity: 0.14
+
+Instrument: Piano (Consolidated)
+  Note: D#5, Time: 0.00s, Duration: 0.27s, Velocity: 0.42
+  Note: E5, Time: 0.27s, Duration: 0.27s, Velocity: 0.42
+  Note: F#5, Time: 0.55s, Duration: 0.27s, Velocity: 0.42
+  Note: B5, Time: 0.82s, Duration: 0.27s, Velocity: 0.42
+  Note: G#3, Time: 1.09s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 1.09s, Duration: 2.18s, Velocity: 0.43
+  Note: E4, Time: 1.09s, Duration: 2.18s, Velocity: 0.43
+  Note: C#6, Time: 1.09s, Duration: 0.55s, Velocity: 0.42
+  Note: B5, Time: 1.64s, Duration: 0.55s, Velocity: 0.42
+  Note: B5, Time: 2.18s, Duration: 0.27s, Velocity: 0.42
+  Note: A#5, Time: 2.45s, Duration: 0.27s, Velocity: 0.42
+  Note: F#5, Time: 2.73s, Duration: 0.27s, Velocity: 0.42
+  Note: E5, Time: 3.00s, Duration: 0.82s, Velocity: 0.42
+  Note: F#3, Time: 3.27s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 3.27s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 3.27s, Duration: 2.18s, Velocity: 0.43
+  Note: E5, Time: 3.82s, Duration: 0.55s, Velocity: 0.42
+  Note: E5, Time: 4.36s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 4.64s, Duration: 0.27s, Velocity: 0.42
+  Note: B4, Time: 4.91s, Duration: 0.27s, Velocity: 0.42
+  Note: E5, Time: 5.18s, Duration: 0.55s, Velocity: 0.42
+  Note: G#3, Time: 5.45s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 5.45s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 5.45s, Duration: 2.18s, Velocity: 0.43
+  Note: D#5, Time: 5.73s, Duration: 0.55s, Velocity: 0.42
+  Note: C#5, Time: 6.27s, Duration: 0.55s, Velocity: 0.42
+  Note: B4, Time: 6.82s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 7.09s, Duration: 0.27s, Velocity: 0.42
+  Note: C#5, Time: 7.36s, Duration: 1.36s, Velocity: 0.42
+  Note: F#3, Time: 7.64s, Duration: 2.18s, Velocity: 0.43
+  Note: A#3, Time: 7.64s, Duration: 2.18s, Velocity: 0.43
+  Note: C#4, Time: 7.64s, Duration: 2.18s, Velocity: 0.43
+  Note: D#5, Time: 8.73s, Duration: 0.27s, Velocity: 0.42
+  Note: E5, Time: 9.00s, Duration: 0.27s, Velocity: 0.42
+  Note: F#5, Time: 9.27s, Duration: 0.27s, Velocity: 0.42
+  Note: B5, Time: 9.55s, Duration: 0.27s, Velocity: 0.42
+  Note: G#3, Time: 9.82s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 9.82s, Duration: 2.18s, Velocity: 0.43
+  Note: E4, Time: 9.82s, Duration: 2.18s, Velocity: 0.43
+  Note: C#6, Time: 9.82s, Duration: 0.55s, Velocity: 0.42
+  Note: B5, Time: 10.36s, Duration: 0.55s, Velocity: 0.42
+  Note: B5, Time: 10.91s, Duration: 0.27s, Velocity: 0.42
+  Note: A#5, Time: 11.18s, Duration: 0.27s, Velocity: 0.42
+  Note: F#5, Time: 11.45s, Duration: 0.27s, Velocity: 0.42
+  Note: E5, Time: 11.73s, Duration: 0.82s, Velocity: 0.42
+  Note: F#3, Time: 12.00s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 12.00s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 12.00s, Duration: 2.18s, Velocity: 0.43
+  Note: E5, Time: 12.55s, Duration: 0.55s, Velocity: 0.42
+  Note: E5, Time: 13.09s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 13.36s, Duration: 0.27s, Velocity: 0.42
+  Note: B4, Time: 13.64s, Duration: 0.27s, Velocity: 0.42
+  Note: E5, Time: 13.91s, Duration: 0.55s, Velocity: 0.42
+  Note: G#3, Time: 14.18s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 14.18s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 14.18s, Duration: 2.18s, Velocity: 0.43
+  Note: D#5, Time: 14.45s, Duration: 0.55s, Velocity: 0.42
+  Note: C#5, Time: 15.00s, Duration: 0.55s, Velocity: 0.42
+  Note: D#5, Time: 15.55s, Duration: 0.55s, Velocity: 0.42
+  Note: C#5, Time: 16.09s, Duration: 1.09s, Velocity: 0.42
+  Note: F#3, Time: 16.36s, Duration: 2.18s, Velocity: 0.43
+  Note: A#3, Time: 16.36s, Duration: 2.18s, Velocity: 0.43
+  Note: C#4, Time: 16.36s, Duration: 2.18s, Velocity: 0.43
+  Note: B4, Time: 17.18s, Duration: 0.82s, Velocity: 0.42
+  Note: B4, Time: 18.00s, Duration: 0.55s, Velocity: 0.42
+  Note: G#3, Time: 18.55s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 18.55s, Duration: 2.18s, Velocity: 0.43
+  Note: E4, Time: 18.55s, Duration: 2.18s, Velocity: 0.43
+  Note: B4, Time: 18.55s, Duration: 0.14s, Velocity: 0.42
+  Note: D#5, Time: 18.68s, Duration: 0.14s, Velocity: 0.42
+  Note: F#5, Time: 18.82s, Duration: 0.27s, Velocity: 0.42
+  Note: F#5, Time: 19.09s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 19.36s, Duration: 0.27s, Velocity: 0.42
+  Note: C#5, Time: 19.64s, Duration: 0.14s, Velocity: 0.42
+  Note: D#5, Time: 19.77s, Duration: 0.27s, Velocity: 0.42
+  Note: C#5, Time: 20.05s, Duration: 0.82s, Velocity: 0.42
+  Note: F#3, Time: 20.73s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 20.73s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 20.73s, Duration: 2.18s, Velocity: 0.43
+  Note: B4, Time: 20.86s, Duration: 0.14s, Velocity: 0.42
+  Note: D#5, Time: 21.00s, Duration: 0.14s, Velocity: 0.42
+  Note: F#5, Time: 21.14s, Duration: 0.27s, Velocity: 0.42
+  Note: F#5, Time: 21.41s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 21.68s, Duration: 0.27s, Velocity: 0.42
+  Note: C#5, Time: 21.95s, Duration: 0.14s, Velocity: 0.42
+  Note: D#5, Time: 22.09s, Duration: 0.82s, Velocity: 0.42
+  Note: G#3, Time: 22.91s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 22.91s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 22.91s, Duration: 2.18s, Velocity: 0.43
+  Note: B4, Time: 22.91s, Duration: 0.14s, Velocity: 0.42
+  Note: D#5, Time: 23.05s, Duration: 0.14s, Velocity: 0.42
+  Note: F#5, Time: 23.18s, Duration: 0.27s, Velocity: 0.42
+  Note: F#5, Time: 23.45s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 23.73s, Duration: 0.27s, Velocity: 0.42
+  Note: C#5, Time: 24.00s, Duration: 0.14s, Velocity: 0.42
+  Note: D#5, Time: 24.14s, Duration: 0.27s, Velocity: 0.42
+  Note: C#5, Time: 24.41s, Duration: 0.82s, Velocity: 0.42
+  Note: F#3, Time: 25.09s, Duration: 2.18s, Velocity: 0.43
+  Note: A#3, Time: 25.09s, Duration: 2.18s, Velocity: 0.43
+  Note: C#4, Time: 25.09s, Duration: 2.18s, Velocity: 0.43
+  Note: B4, Time: 25.23s, Duration: 0.14s, Velocity: 0.42
+  Note: D#5, Time: 25.36s, Duration: 0.14s, Velocity: 0.42
+  Note: F#5, Time: 25.50s, Duration: 0.27s, Velocity: 0.42
+  Note: F#5, Time: 25.77s, Duration: 0.27s, Velocity: 0.42
+  Note: G#5, Time: 26.05s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 26.32s, Duration: 0.14s, Velocity: 0.42
+  Note: D#5, Time: 26.45s, Duration: 0.95s, Velocity: 0.42
+  Note: G#3, Time: 27.27s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 27.27s, Duration: 2.18s, Velocity: 0.43
+  Note: E4, Time: 27.27s, Duration: 2.18s, Velocity: 0.43
+  Note: B4, Time: 27.41s, Duration: 0.14s, Velocity: 0.42
+  Note: D#5, Time: 27.55s, Duration: 0.14s, Velocity: 0.42
+  Note: F#5, Time: 27.68s, Duration: 0.27s, Velocity: 0.42
+  Note: F#5, Time: 27.95s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 28.23s, Duration: 0.27s, Velocity: 0.42
+  Note: C#5, Time: 28.50s, Duration: 0.14s, Velocity: 0.42
+  Note: D#5, Time: 28.64s, Duration: 0.27s, Velocity: 0.42
+  Note: C#5, Time: 28.91s, Duration: 0.82s, Velocity: 0.42
+  Note: F#3, Time: 29.45s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 29.45s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 29.45s, Duration: 2.18s, Velocity: 0.43
+  Note: B4, Time: 29.73s, Duration: 0.14s, Velocity: 0.42
+  Note: D#5, Time: 29.86s, Duration: 0.14s, Velocity: 0.42
+  Note: F#5, Time: 30.00s, Duration: 0.27s, Velocity: 0.42
+  Note: F#5, Time: 30.27s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 30.55s, Duration: 0.27s, Velocity: 0.42
+  Note: C#5, Time: 30.82s, Duration: 0.14s, Velocity: 0.42
+  Note: D#5, Time: 30.95s, Duration: 0.95s, Velocity: 0.42
+  Note: G#3, Time: 31.64s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 31.64s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 31.64s, Duration: 2.18s, Velocity: 0.43
+  Note: B4, Time: 31.91s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 32.18s, Duration: 0.14s, Velocity: 0.42
+  Note: F#5, Time: 32.32s, Duration: 0.27s, Velocity: 0.42
+  Note: F#5, Time: 32.59s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 32.86s, Duration: 0.27s, Velocity: 0.42
+  Note: C#5, Time: 33.14s, Duration: 0.14s, Velocity: 0.42
+  Note: D#5, Time: 33.27s, Duration: 0.27s, Velocity: 0.42
+  Note: C#5, Time: 33.55s, Duration: 0.27s, Velocity: 0.42
+  Note: F#3, Time: 33.82s, Duration: 2.18s, Velocity: 0.43
+  Note: A#3, Time: 33.82s, Duration: 2.18s, Velocity: 0.43
+  Note: C#4, Time: 33.82s, Duration: 2.18s, Velocity: 0.43
+  Note: E5, Time: 33.82s, Duration: 0.41s, Velocity: 0.42
+  Note: D#5, Time: 34.23s, Duration: 0.41s, Velocity: 0.42
+  Note: B4, Time: 34.64s, Duration: 0.27s, Velocity: 0.42
+  Note: E5, Time: 34.91s, Duration: 0.41s, Velocity: 0.42
+  Note: D#5, Time: 35.32s, Duration: 0.41s, Velocity: 0.42
+  Note: C#5, Time: 35.73s, Duration: 0.27s, Velocity: 0.42
+  Note: G#3, Time: 36.00s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 36.00s, Duration: 2.18s, Velocity: 0.43
+  Note: E4, Time: 36.00s, Duration: 2.18s, Velocity: 0.43
+  Note: D#5, Time: 36.00s, Duration: 0.55s, Velocity: 0.42
+  Note: D#5, Time: 36.55s, Duration: 0.55s, Velocity: 0.42
+  Note: D#5, Time: 37.09s, Duration: 0.41s, Velocity: 0.42
+  Note: D#5, Time: 37.50s, Duration: 0.41s, Velocity: 0.42
+  Note: C#5, Time: 37.91s, Duration: 0.27s, Velocity: 0.42
+  Note: F#3, Time: 38.18s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 38.18s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 38.18s, Duration: 2.18s, Velocity: 0.43
+  Note: D#5, Time: 38.18s, Duration: 0.55s, Velocity: 0.42
+  Note: D#5, Time: 38.73s, Duration: 0.55s, Velocity: 0.42
+  Note: D#5, Time: 39.27s, Duration: 0.41s, Velocity: 0.42
+  Note: D#5, Time: 39.68s, Duration: 0.41s, Velocity: 0.42
+  Note: C#5, Time: 40.09s, Duration: 0.27s, Velocity: 0.42
+  Note: G#3, Time: 40.36s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 40.36s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 40.36s, Duration: 2.18s, Velocity: 0.43
+  Note: D#5, Time: 40.36s, Duration: 0.55s, Velocity: 0.42
+  Note: D#5, Time: 40.91s, Duration: 0.55s, Velocity: 0.42
+  Note: D#5, Time: 41.45s, Duration: 0.41s, Velocity: 0.42
+  Note: D#5, Time: 41.86s, Duration: 0.41s, Velocity: 0.42
+  Note: C#5, Time: 42.27s, Duration: 0.27s, Velocity: 0.42
+  Note: F#3, Time: 42.55s, Duration: 2.18s, Velocity: 0.43
+  Note: A#3, Time: 42.55s, Duration: 2.18s, Velocity: 0.43
+  Note: C#4, Time: 42.55s, Duration: 2.18s, Velocity: 0.43
+  Note: C#5, Time: 42.55s, Duration: 0.55s, Velocity: 0.42
+  Note: A#4, Time: 43.09s, Duration: 0.55s, Velocity: 0.42
+  Note: A#4, Time: 43.64s, Duration: 0.41s, Velocity: 0.42
+  Note: B4, Time: 44.05s, Duration: 0.41s, Velocity: 0.42
+  Note: F#5, Time: 44.45s, Duration: 0.27s, Velocity: 0.42
+  Note: G#3, Time: 44.73s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 44.73s, Duration: 2.18s, Velocity: 0.43
+  Note: E4, Time: 44.73s, Duration: 2.18s, Velocity: 0.43
+  Note: D#5, Time: 44.73s, Duration: 0.55s, Velocity: 0.42
+  Note: D#5, Time: 45.27s, Duration: 0.55s, Velocity: 0.42
+  Note: D#5, Time: 45.82s, Duration: 0.41s, Velocity: 0.42
+  Note: D#5, Time: 46.23s, Duration: 0.41s, Velocity: 0.42
+  Note: C#5, Time: 46.64s, Duration: 0.27s, Velocity: 0.42
+  Note: F#3, Time: 46.91s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 46.91s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 46.91s, Duration: 2.18s, Velocity: 0.43
+  Note: D#5, Time: 46.91s, Duration: 0.55s, Velocity: 0.42
+  Note: D#5, Time: 47.45s, Duration: 0.55s, Velocity: 0.42
+  Note: D#5, Time: 48.00s, Duration: 0.41s, Velocity: 0.42
+  Note: D#5, Time: 48.41s, Duration: 0.41s, Velocity: 0.42
+  Note: C#5, Time: 48.82s, Duration: 0.27s, Velocity: 0.42
+  Note: G#3, Time: 49.09s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 49.09s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 49.09s, Duration: 2.18s, Velocity: 0.43
+  Note: D#5, Time: 49.09s, Duration: 0.55s, Velocity: 0.42
+  Note: D#5, Time: 49.64s, Duration: 0.55s, Velocity: 0.42
+  Note: D#5, Time: 50.18s, Duration: 0.41s, Velocity: 0.42
+  Note: D#5, Time: 50.59s, Duration: 0.41s, Velocity: 0.42
+  Note: C#5, Time: 51.00s, Duration: 0.27s, Velocity: 0.42
+  Note: F#3, Time: 51.27s, Duration: 2.18s, Velocity: 0.43
+  Note: A#3, Time: 51.27s, Duration: 2.18s, Velocity: 0.43
+  Note: C#4, Time: 51.27s, Duration: 2.18s, Velocity: 0.43
+  Note: C#5, Time: 51.27s, Duration: 1.09s, Velocity: 0.42
+  Note: D#5, Time: 52.36s, Duration: 0.27s, Velocity: 0.42
+  Note: E5, Time: 52.64s, Duration: 0.27s, Velocity: 0.42
+  Note: F#5, Time: 52.91s, Duration: 0.27s, Velocity: 0.42
+  Note: B5, Time: 53.18s, Duration: 0.27s, Velocity: 0.42
+  Note: G#3, Time: 53.45s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 53.45s, Duration: 2.18s, Velocity: 0.43
+  Note: E4, Time: 53.45s, Duration: 2.18s, Velocity: 0.43
+  Note: C#6, Time: 53.45s, Duration: 0.55s, Velocity: 0.42
+  Note: B5, Time: 54.00s, Duration: 0.55s, Velocity: 0.42
+  Note: B5, Time: 54.55s, Duration: 0.27s, Velocity: 0.42
+  Note: A#5, Time: 54.82s, Duration: 0.27s, Velocity: 0.42
+  Note: F#5, Time: 55.09s, Duration: 0.27s, Velocity: 0.42
+  Note: E5, Time: 55.36s, Duration: 0.82s, Velocity: 0.42
+  Note: F#3, Time: 55.64s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 55.64s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 55.64s, Duration: 2.18s, Velocity: 0.43
+  Note: E5, Time: 56.18s, Duration: 0.55s, Velocity: 0.42
+  Note: E5, Time: 56.73s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 57.00s, Duration: 0.27s, Velocity: 0.42
+  Note: B4, Time: 57.27s, Duration: 0.27s, Velocity: 0.42
+  Note: E5, Time: 57.55s, Duration: 0.55s, Velocity: 0.42
+  Note: G#3, Time: 57.82s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 57.82s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 57.82s, Duration: 2.18s, Velocity: 0.43
+  Note: D#5, Time: 58.09s, Duration: 0.55s, Velocity: 0.42
+  Note: C#5, Time: 58.64s, Duration: 0.55s, Velocity: 0.42
+  Note: B4, Time: 59.18s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 59.45s, Duration: 0.27s, Velocity: 0.42
+  Note: C#5, Time: 59.73s, Duration: 1.36s, Velocity: 0.42
+  Note: F#3, Time: 60.00s, Duration: 2.18s, Velocity: 0.43
+  Note: A#3, Time: 60.00s, Duration: 2.18s, Velocity: 0.43
+  Note: C#4, Time: 60.00s, Duration: 2.18s, Velocity: 0.43
+  Note: D#5, Time: 61.09s, Duration: 0.27s, Velocity: 0.42
+  Note: E5, Time: 61.36s, Duration: 0.27s, Velocity: 0.42
+  Note: F#5, Time: 61.64s, Duration: 0.27s, Velocity: 0.42
+  Note: B5, Time: 61.91s, Duration: 0.27s, Velocity: 0.42
+  Note: G#3, Time: 62.18s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 62.18s, Duration: 2.18s, Velocity: 0.43
+  Note: E4, Time: 62.18s, Duration: 2.18s, Velocity: 0.43
+  Note: C#6, Time: 62.18s, Duration: 0.55s, Velocity: 0.42
+  Note: B5, Time: 62.73s, Duration: 0.55s, Velocity: 0.42
+  Note: B5, Time: 63.27s, Duration: 0.27s, Velocity: 0.42
+  Note: A#5, Time: 63.55s, Duration: 0.27s, Velocity: 0.42
+  Note: F#5, Time: 63.82s, Duration: 0.27s, Velocity: 0.42
+  Note: E5, Time: 64.09s, Duration: 0.82s, Velocity: 0.42
+  Note: F#3, Time: 64.36s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 64.36s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 64.36s, Duration: 2.18s, Velocity: 0.43
+  Note: E5, Time: 64.91s, Duration: 0.55s, Velocity: 0.42
+  Note: E5, Time: 65.45s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 65.73s, Duration: 0.27s, Velocity: 0.42
+  Note: B4, Time: 66.00s, Duration: 0.27s, Velocity: 0.42
+  Note: E5, Time: 66.27s, Duration: 0.55s, Velocity: 0.42
+  Note: G#3, Time: 66.55s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 66.55s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 66.55s, Duration: 2.18s, Velocity: 0.43
+  Note: D#5, Time: 66.82s, Duration: 0.55s, Velocity: 0.42
+  Note: C#5, Time: 67.36s, Duration: 0.55s, Velocity: 0.42
+  Note: D#5, Time: 67.91s, Duration: 0.55s, Velocity: 0.42
+  Note: C#5, Time: 68.45s, Duration: 1.09s, Velocity: 0.42
+  Note: F#3, Time: 68.73s, Duration: 2.18s, Velocity: 0.43
+  Note: A#3, Time: 68.73s, Duration: 2.18s, Velocity: 0.43
+  Note: C#4, Time: 68.73s, Duration: 2.18s, Velocity: 0.43
+  Note: B4, Time: 69.55s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 69.82s, Duration: 0.27s, Velocity: 0.42
+  Note: E5, Time: 70.09s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 70.36s, Duration: 0.27s, Velocity: 0.42
+  Note: C#5, Time: 70.64s, Duration: 0.27s, Velocity: 0.42
+  Note: G#3, Time: 70.91s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 70.91s, Duration: 2.18s, Velocity: 0.43
+  Note: E4, Time: 70.91s, Duration: 2.18s, Velocity: 0.43
+  Note: C#5, Time: 70.91s, Duration: 0.41s, Velocity: 0.42
+  Note: B4, Time: 71.32s, Duration: 0.41s, Velocity: 0.42
+  Note: B4, Time: 71.73s, Duration: 0.41s, Velocity: 0.42
+  Note: C#5, Time: 72.14s, Duration: 0.41s, Velocity: 0.42
+  Note: D#5, Time: 72.55s, Duration: 1.64s, Velocity: 0.42
+  Note: F#3, Time: 73.09s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 73.09s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 73.09s, Duration: 2.18s, Velocity: 0.43
+  Note: D#5, Time: 74.18s, Duration: 0.27s, Velocity: 0.42
+  Note: E5, Time: 74.45s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 74.73s, Duration: 0.27s, Velocity: 0.42
+  Note: C#5, Time: 75.00s, Duration: 0.27s, Velocity: 0.42
+  Note: G#3, Time: 75.27s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 75.27s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 75.27s, Duration: 2.18s, Velocity: 0.43
+  Note: C#5, Time: 75.27s, Duration: 0.41s, Velocity: 0.42
+  Note: B4, Time: 75.68s, Duration: 0.41s, Velocity: 0.42
+  Note: B4, Time: 76.09s, Duration: 0.41s, Velocity: 0.42
+  Note: F#5, Time: 76.50s, Duration: 0.41s, Velocity: 0.42
+  Note: C#5, Time: 76.91s, Duration: 1.36s, Velocity: 0.42
+  Note: F#3, Time: 77.45s, Duration: 2.18s, Velocity: 0.43
+  Note: A#3, Time: 77.45s, Duration: 2.18s, Velocity: 0.43
+  Note: C#4, Time: 77.45s, Duration: 2.18s, Velocity: 0.43
+  Note: A#4, Time: 78.27s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 78.55s, Duration: 0.27s, Velocity: 0.42
+  Note: E5, Time: 78.82s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 79.09s, Duration: 0.27s, Velocity: 0.42
+  Note: C#5, Time: 79.36s, Duration: 0.27s, Velocity: 0.42
+  Note: G#3, Time: 79.64s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 79.64s, Duration: 2.18s, Velocity: 0.43
+  Note: E4, Time: 79.64s, Duration: 2.18s, Velocity: 0.43
+  Note: C#5, Time: 79.64s, Duration: 0.41s, Velocity: 0.42
+  Note: B4, Time: 80.05s, Duration: 0.41s, Velocity: 0.42
+  Note: B4, Time: 80.45s, Duration: 0.41s, Velocity: 0.42
+  Note: C#5, Time: 80.86s, Duration: 0.41s, Velocity: 0.42
+  Note: D#5, Time: 81.27s, Duration: 1.64s, Velocity: 0.42
+  Note: F#3, Time: 81.82s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 81.82s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 81.82s, Duration: 2.18s, Velocity: 0.43
+  Note: D#5, Time: 82.91s, Duration: 0.27s, Velocity: 0.42
+  Note: E5, Time: 83.18s, Duration: 0.27s, Velocity: 0.42
+  Note: D#5, Time: 83.45s, Duration: 0.27s, Velocity: 0.42
+  Note: C#5, Time: 83.73s, Duration: 0.27s, Velocity: 0.42
+  Note: G#3, Time: 84.00s, Duration: 2.18s, Velocity: 0.43
+  Note: B3, Time: 84.00s, Duration: 2.18s, Velocity: 0.43
+  Note: D#4, Time: 84.00s, Duration: 2.18s, Velocity: 0.43
+  Note: C#5, Time: 84.00s, Duration: 0.41s, Velocity: 0.42
+  Note: B4, Time: 84.41s, Duration: 0.41s, Velocity: 0.42
+  Note: B4, Time: 84.82s, Duration: 0.41s, Velocity: 0.42
+  Note: F#5, Time: 85.23s, Duration: 0.41s, Velocity: 0.42
+  Note: C#5, Time: 85.64s, Duration: 1.36s, Velocity: 0.42
+  Note: F#3, Time: 86.18s, Duration: 2.18s, Velocity: 0.43
+  Note: A#3, Time: 86.18s, Duration: 2.18s, Velocity: 0.43
+  Note: C#4, Time: 86.18s, Duration: 2.18s, Velocity: 0.43
+  Note: D#5, Time: 87.00s, Duration: 0.41s, Velocity: 0.42
+  Note: E5, Time: 87.41s, Duration: 0.41s, Velocity: 0.42
+  Note: D#5, Time: 87.82s, Duration: 0.27s, Velocity: 0.42
+  Note: C#5, Time: 88.09s, Duration: 0.41s, Velocity: 0.42
+  Note: B4, Time: 88.50s, Duration: 0.55s, Velocity: 0.42
+
+
+  -------------------------------------------------------------------------------------------------------
+
+
+MIDI File: Carly Rae Jepsen - Call Me Maybe.mid
+Tempo: 119 BPM
+Time Signature: 4/4
+Total Tracks (in source MIDI): 5
+Consolidated Instrument Tracks: 4
+
+Instrument: Drum Kit / Percussion
+  Note: B1 (Acoustic Bass Drum), Time: 0.49s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 0.49s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 1.00s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 1.00s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 1.50s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 1.50s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 2.01s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 2.01s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 2.51s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 2.51s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 3.01s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 3.01s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 3.52s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 3.52s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 4.02s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 4.02s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 4.53s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 4.53s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 5.03s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 5.03s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 5.54s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 5.54s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 6.04s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 6.04s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 6.54s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 6.54s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 7.05s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 7.05s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 7.55s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 7.55s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 8.06s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 8.06s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 8.56s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 8.56s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 9.07s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 9.07s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 9.57s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 9.57s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 10.07s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 10.07s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 10.58s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 10.58s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 11.08s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 11.08s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 11.59s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 11.59s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 12.09s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 12.09s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 12.59s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 12.59s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 13.10s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 13.10s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 13.60s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 13.60s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 14.11s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 14.11s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 14.61s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 14.61s, Duration: 0.13s, Velocity: 0.39
+  Note: D3 (High Tom), Time: 14.61s, Duration: 0.06s, Velocity: 0.39
+  Note: D3 (High Tom), Time: 14.67s, Duration: 0.06s, Velocity: 0.39
+  Note: D3 (High Tom), Time: 14.74s, Duration: 0.06s, Velocity: 0.39
+  Note: C3 (High-Mid Tom), Time: 14.80s, Duration: 0.06s, Velocity: 0.39
+  Note: C3 (High-Mid Tom), Time: 14.86s, Duration: 0.06s, Velocity: 0.39
+  Note: C3 (High-Mid Tom), Time: 14.93s, Duration: 0.06s, Velocity: 0.39
+  Note: B2 (Low-Mid Tom), Time: 14.99s, Duration: 0.06s, Velocity: 0.39
+  Note: B2 (Low-Mid Tom), Time: 15.05s, Duration: 0.06s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 15.12s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 15.12s, Duration: 0.13s, Velocity: 0.39
+  Note: B2 (Low-Mid Tom), Time: 15.12s, Duration: 0.06s, Velocity: 0.39
+  Note: A2 (Low Tom), Time: 15.18s, Duration: 0.06s, Velocity: 0.39
+  Note: A2 (Low Tom), Time: 15.24s, Duration: 0.06s, Velocity: 0.39
+  Note: G2 (High Floor Tom), Time: 15.30s, Duration: 0.06s, Velocity: 0.39
+  Note: A2 (Low Tom), Time: 15.30s, Duration: 0.06s, Velocity: 0.39
+  Note: G2 (High Floor Tom), Time: 15.37s, Duration: 0.06s, Velocity: 0.39
+  Note: F2 (Low Floor Tom), Time: 15.43s, Duration: 0.06s, Velocity: 0.39
+  Note: G2 (High Floor Tom), Time: 15.43s, Duration: 0.06s, Velocity: 0.39
+  Note: F2 (Low Floor Tom), Time: 15.49s, Duration: 0.06s, Velocity: 0.39
+  Note: F2 (Low Floor Tom), Time: 15.56s, Duration: 0.06s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 15.62s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 15.62s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 15.87s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 15.87s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 16.12s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 16.12s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 16.38s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 16.38s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 16.63s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 16.63s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 17.13s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 17.13s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 17.64s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 17.64s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 18.14s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 18.14s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 18.64s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 18.64s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 19.15s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 19.15s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 19.65s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 19.65s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 20.16s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 20.16s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 20.66s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 20.66s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 21.17s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 21.17s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 21.67s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 21.67s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 22.17s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 22.17s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 22.68s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 22.68s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 23.18s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 23.18s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 23.69s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 23.69s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 24.19s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 24.19s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 24.70s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 24.70s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 25.20s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 25.20s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 25.70s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 25.70s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 26.21s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 26.21s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 26.71s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 26.71s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 27.22s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 27.22s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 27.72s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 27.72s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 28.22s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 28.22s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 28.73s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 28.73s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 29.23s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 29.23s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 29.74s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 29.74s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 30.24s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 30.24s, Duration: 0.13s, Velocity: 0.39
+  Note: B1 (Acoustic Bass Drum), Time: 30.75s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 30.75s, Duration: 0.13s, Velocity: 0.39
+  Note: C2 (Bass Drum 1), Time: 31.25s, Duration: 0.13s, Velocity: 0.39
+  Note: D#2 (Hand Clap), Time: 31.25s, Duration: 0.13s, Velocity: 0.39
+
+Instrument: Electric Bass
+  Note: D4, Time: 0.49s, Duration: 0.13s, Velocity: 0.39
+  Note: E4, Time: 0.62s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 0.87s, Duration: 0.38s, Velocity: 0.39
+  Note: D4, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 2.26s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 2.51s, Duration: 0.13s, Velocity: 0.39
+  Note: E4, Time: 2.64s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 2.89s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 3.27s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 3.27s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 4.28s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 4.53s, Duration: 0.25s, Velocity: 0.39
+  Note: C5, Time: 4.78s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 5.03s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 6.29s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 6.54s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 6.80s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 7.05s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 7.30s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 8.06s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 8.56s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 8.56s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 8.81s, Duration: 0.13s, Velocity: 0.39
+  Note: G4, Time: 8.94s, Duration: 0.38s, Velocity: 0.39
+  Note: D4, Time: 9.32s, Duration: 0.38s, Velocity: 0.39
+  Note: D4, Time: 10.58s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 10.83s, Duration: 0.13s, Velocity: 0.39
+  Note: E4, Time: 10.96s, Duration: 0.13s, Velocity: 0.39
+  Note: B4, Time: 11.08s, Duration: 0.76s, Velocity: 0.39
+  Note: G4, Time: 11.84s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 12.34s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 12.59s, Duration: 0.25s, Velocity: 0.39
+  Note: C5, Time: 12.85s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 13.10s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 14.36s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 14.61s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 14.86s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 15.12s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 15.37s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 16.12s, Duration: 0.50s, Velocity: 0.39
+  Note: G4, Time: 16.38s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 16.63s, Duration: 0.13s, Velocity: 0.39
+  Note: E4, Time: 16.75s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 17.01s, Duration: 0.38s, Velocity: 0.39
+  Note: D4, Time: 17.38s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 18.39s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 18.64s, Duration: 0.13s, Velocity: 0.39
+  Note: E4, Time: 18.77s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 19.02s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 19.40s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 19.40s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 20.41s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 20.66s, Duration: 0.25s, Velocity: 0.39
+  Note: C5, Time: 20.91s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 21.17s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 21.42s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 22.43s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 22.68s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 22.93s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 23.18s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 23.43s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 24.19s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 24.70s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 24.70s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 24.95s, Duration: 0.13s, Velocity: 0.39
+  Note: G4, Time: 25.07s, Duration: 0.38s, Velocity: 0.39
+  Note: D4, Time: 25.45s, Duration: 0.38s, Velocity: 0.39
+  Note: D4, Time: 26.71s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 26.96s, Duration: 0.13s, Velocity: 0.39
+  Note: E4, Time: 27.09s, Duration: 0.13s, Velocity: 0.39
+  Note: B4, Time: 27.22s, Duration: 0.76s, Velocity: 0.39
+  Note: G4, Time: 27.97s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 28.48s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 28.73s, Duration: 0.25s, Velocity: 0.39
+  Note: C5, Time: 28.98s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 29.23s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 29.49s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 30.49s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 30.75s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 31.00s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 31.25s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 31.50s, Duration: 0.25s, Velocity: 0.39
+
+Instrument: High Strings (Violin, Viola, etc.)
+  Note: E4, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 1.75s, Duration: 0.25s, Velocity: 0.39
+  Note: F#4, Time: 1.75s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 1.75s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 2.01s, Duration: 0.25s, Velocity: 0.39
+  Note: F#4, Time: 2.01s, Duration: 0.25s, Velocity: 0.39
+  Note: A4, Time: 2.01s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 3.27s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 3.27s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 3.77s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 3.77s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 4.02s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 4.02s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: F#4, Time: 5.79s, Duration: 0.25s, Velocity: 0.39
+  Note: F#4, Time: 6.04s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 7.05s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 7.05s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 7.55s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 7.55s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 8.06s, Duration: 0.25s, Velocity: 0.39
+  Note: G4, Time: 9.32s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 9.32s, Duration: 0.25s, Velocity: 0.39
+  Note: F#4, Time: 9.82s, Duration: 0.25s, Velocity: 0.39
+  Note: G6, Time: 14.61s, Duration: 0.06s, Velocity: 0.39
+  Note: F#6, Time: 14.67s, Duration: 0.06s, Velocity: 0.39
+  Note: E6, Time: 14.74s, Duration: 0.06s, Velocity: 0.39
+  Note: D6, Time: 14.80s, Duration: 0.06s, Velocity: 0.39
+  Note: C6, Time: 14.86s, Duration: 0.06s, Velocity: 0.39
+  Note: B5, Time: 14.93s, Duration: 0.06s, Velocity: 0.39
+  Note: A5, Time: 14.99s, Duration: 0.06s, Velocity: 0.39
+  Note: G5, Time: 15.05s, Duration: 0.06s, Velocity: 0.39
+  Note: G6, Time: 15.12s, Duration: 0.06s, Velocity: 0.39
+  Note: F#6, Time: 15.18s, Duration: 0.06s, Velocity: 0.39
+  Note: E6, Time: 15.24s, Duration: 0.06s, Velocity: 0.39
+  Note: D6, Time: 15.30s, Duration: 0.06s, Velocity: 0.39
+  Note: C6, Time: 15.37s, Duration: 0.06s, Velocity: 0.39
+  Note: B5, Time: 15.43s, Duration: 0.06s, Velocity: 0.39
+  Note: A5, Time: 15.49s, Duration: 0.06s, Velocity: 0.39
+  Note: G5, Time: 15.56s, Duration: 0.06s, Velocity: 0.39
+
+Instrument: Piano (Consolidated)
+  Note: E3, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: B4, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: B4, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 0.00s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 0.50s, Duration: 0.13s, Velocity: 0.39
+  Note: D5, Time: 0.50s, Duration: 0.13s, Velocity: 0.39
+  Note: E5, Time: 0.63s, Duration: 0.25s, Velocity: 0.39
+  Note: E5, Time: 0.63s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 0.87s, Duration: 0.38s, Velocity: 0.39
+  Note: G5, Time: 0.87s, Duration: 0.38s, Velocity: 0.39
+  Note: E3, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 1.25s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 1.75s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 1.77s, Duration: 0.25s, Velocity: 0.39
+  Note: F#3, Time: 1.77s, Duration: 0.25s, Velocity: 0.39
+  Note: A3, Time: 1.77s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 2.01s, Duration: 0.50s, Velocity: 0.39
+  Note: D3, Time: 2.02s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 2.02s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 2.02s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 2.26s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 2.26s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 2.52s, Duration: 0.13s, Velocity: 0.39
+  Note: D5, Time: 2.52s, Duration: 0.13s, Velocity: 0.39
+  Note: E5, Time: 2.65s, Duration: 0.25s, Velocity: 0.39
+  Note: E5, Time: 2.65s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 2.89s, Duration: 0.38s, Velocity: 0.39
+  Note: D5, Time: 2.89s, Duration: 0.38s, Velocity: 0.39
+  Note: B5, Time: 2.89s, Duration: 0.38s, Velocity: 0.39
+  Note: B5, Time: 2.89s, Duration: 0.38s, Velocity: 0.39
+  Note: E3, Time: 3.26s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 3.26s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 3.26s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 3.26s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 3.26s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 3.26s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 3.26s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 3.26s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 3.78s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 3.78s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 3.78s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 3.78s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 4.03s, Duration: 0.50s, Velocity: 0.39
+  Note: E3, Time: 4.03s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 4.03s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 4.03s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 4.28s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 4.28s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 4.53s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 4.53s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 4.53s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 4.53s, Duration: 0.25s, Velocity: 0.39
+  Note: C5, Time: 4.78s, Duration: 0.25s, Velocity: 0.39
+  Note: C6, Time: 4.78s, Duration: 0.25s, Velocity: 0.39
+  Note: C6, Time: 4.78s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 4.78s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 4.78s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 5.03s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 5.03s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 5.03s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 5.03s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 5.28s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 5.80s, Duration: 0.25s, Velocity: 0.39
+  Note: F#3, Time: 5.80s, Duration: 0.25s, Velocity: 0.39
+  Note: A3, Time: 5.80s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 5.80s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 6.05s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 6.05s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 6.05s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 6.05s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 6.30s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 6.30s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 6.55s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 6.55s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 6.80s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 6.80s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 7.05s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 7.05s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 7.05s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 7.05s, Duration: 0.50s, Velocity: 0.39
+  Note: A5, Time: 7.05s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 7.05s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 7.30s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 7.30s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 7.55s, Duration: 0.50s, Velocity: 0.39
+  Note: B4, Time: 8.06s, Duration: 0.50s, Velocity: 0.39
+  Note: C3, Time: 8.07s, Duration: 0.50s, Velocity: 0.39
+  Note: E3, Time: 8.07s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 8.07s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 8.07s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 8.07s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 8.07s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 8.07s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 8.07s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 8.56s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 8.56s, Duration: 0.25s, Velocity: 0.39
+  Note: E5, Time: 8.82s, Duration: 0.13s, Velocity: 0.39
+  Note: E5, Time: 8.82s, Duration: 0.13s, Velocity: 0.39
+  Note: G5, Time: 8.94s, Duration: 0.38s, Velocity: 0.39
+  Note: G5, Time: 8.94s, Duration: 0.38s, Velocity: 0.39
+  Note: E3, Time: 9.31s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 9.31s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 9.31s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 9.31s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 9.32s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 9.32s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 9.83s, Duration: 0.25s, Velocity: 0.39
+  Note: F#3, Time: 9.83s, Duration: 0.25s, Velocity: 0.39
+  Note: A3, Time: 9.83s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 9.83s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 10.08s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 10.08s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 10.08s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 10.08s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 10.58s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 10.58s, Duration: 0.25s, Velocity: 0.39
+  Note: E5, Time: 10.83s, Duration: 0.25s, Velocity: 0.39
+  Note: E5, Time: 10.83s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 11.08s, Duration: 0.76s, Velocity: 0.39
+  Note: D5, Time: 11.08s, Duration: 0.76s, Velocity: 0.39
+  Note: D5, Time: 11.08s, Duration: 0.76s, Velocity: 0.39
+  Note: G5, Time: 11.08s, Duration: 0.76s, Velocity: 0.39
+  Note: G5, Time: 11.08s, Duration: 0.76s, Velocity: 0.39
+  Note: B5, Time: 11.08s, Duration: 0.76s, Velocity: 0.39
+  Note: B5, Time: 11.08s, Duration: 0.76s, Velocity: 0.39
+  Note: C3, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 11.85s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 12.35s, Duration: 1.01s, Velocity: 0.39
+  Note: G5, Time: 12.35s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 12.35s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 12.60s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 12.60s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 12.60s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 12.60s, Duration: 0.25s, Velocity: 0.39
+  Note: C5, Time: 12.85s, Duration: 0.25s, Velocity: 0.39
+  Note: C6, Time: 12.85s, Duration: 0.25s, Velocity: 0.39
+  Note: C6, Time: 12.85s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 12.85s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 12.85s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 13.10s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 13.10s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 13.10s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 13.10s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 13.35s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 13.87s, Duration: 0.25s, Velocity: 0.39
+  Note: F#3, Time: 13.87s, Duration: 0.25s, Velocity: 0.39
+  Note: A3, Time: 13.87s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 13.87s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 14.12s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 14.12s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 14.12s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 14.12s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 14.37s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 14.37s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 14.61s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 14.62s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 14.86s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 15.12s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 15.12s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 15.12s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 15.12s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 15.12s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 15.37s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 15.62s, Duration: 0.50s, Velocity: 0.39
+  Note: C3, Time: 15.87s, Duration: 0.50s, Velocity: 0.39
+  Note: B5, Time: 16.12s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 16.13s, Duration: 0.50s, Velocity: 0.39
+  Note: E3, Time: 16.13s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 16.13s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 16.13s, Duration: 0.50s, Velocity: 0.39
+  Note: B4, Time: 16.13s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 16.13s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 16.13s, Duration: 0.50s, Velocity: 0.39
+  Note: C3, Time: 16.38s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 16.63s, Duration: 0.13s, Velocity: 0.39
+  Note: E5, Time: 16.76s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 17.01s, Duration: 0.38s, Velocity: 0.39
+  Note: E3, Time: 17.38s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 17.38s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 17.38s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 17.38s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 17.38s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 17.90s, Duration: 0.25s, Velocity: 0.39
+  Note: F#3, Time: 17.90s, Duration: 0.25s, Velocity: 0.39
+  Note: A3, Time: 17.90s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 17.90s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 18.15s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 18.15s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 18.15s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 18.15s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 18.40s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 18.65s, Duration: 0.13s, Velocity: 0.39
+  Note: E5, Time: 18.78s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 19.02s, Duration: 0.38s, Velocity: 0.39
+  Note: B5, Time: 19.02s, Duration: 0.38s, Velocity: 0.39
+  Note: G3, Time: 19.40s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 19.40s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 19.40s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 19.40s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 19.40s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 19.40s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 19.92s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 19.92s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 19.92s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 19.92s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 20.17s, Duration: 0.50s, Velocity: 0.39
+  Note: E3, Time: 20.17s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 20.17s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 20.17s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 20.42s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 20.67s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 20.67s, Duration: 0.25s, Velocity: 0.39
+  Note: C6, Time: 20.91s, Duration: 0.25s, Velocity: 0.39
+  Note: C5, Time: 20.92s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 20.92s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 21.17s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 21.17s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 21.42s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 21.42s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 21.42s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 21.42s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 21.42s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 21.42s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 21.93s, Duration: 0.25s, Velocity: 0.39
+  Note: F#3, Time: 21.93s, Duration: 0.25s, Velocity: 0.39
+  Note: A3, Time: 21.93s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 21.93s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 22.18s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 22.18s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 22.18s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 22.18s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 22.43s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 22.68s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 22.93s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 23.18s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 23.18s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 23.18s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 23.18s, Duration: 0.50s, Velocity: 0.39
+  Note: A5, Time: 23.18s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 23.43s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 23.68s, Duration: 0.50s, Velocity: 0.39
+  Note: C4, Time: 23.69s, Duration: 0.50s, Velocity: 0.39
+  Note: C3, Time: 24.20s, Duration: 0.50s, Velocity: 0.39
+  Note: E3, Time: 24.20s, Duration: 0.50s, Velocity: 0.39
+  Note: G3, Time: 24.20s, Duration: 0.50s, Velocity: 0.39
+  Note: B3, Time: 24.20s, Duration: 0.50s, Velocity: 0.39
+  Note: B4, Time: 24.20s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 24.20s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 24.20s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 24.70s, Duration: 0.25s, Velocity: 0.39
+  Note: E5, Time: 24.95s, Duration: 0.13s, Velocity: 0.39
+  Note: G5, Time: 25.07s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 25.33s, Duration: 0.13s, Velocity: 0.39
+  Note: G3, Time: 25.45s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 25.45s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 25.45s, Duration: 0.25s, Velocity: 0.39
+  Note: E5, Time: 25.45s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 25.45s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 25.97s, Duration: 0.25s, Velocity: 0.39
+  Note: F#3, Time: 25.97s, Duration: 0.25s, Velocity: 0.39
+  Note: A3, Time: 25.97s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 25.97s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 26.22s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 26.22s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 26.22s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 26.22s, Duration: 0.50s, Velocity: 0.39
+  Note: D5, Time: 26.72s, Duration: 0.25s, Velocity: 0.39
+  Note: E5, Time: 26.97s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 27.22s, Duration: 0.76s, Velocity: 0.39
+  Note: D5, Time: 27.22s, Duration: 0.76s, Velocity: 0.39
+  Note: G5, Time: 27.22s, Duration: 0.76s, Velocity: 0.39
+  Note: B5, Time: 27.22s, Duration: 0.76s, Velocity: 0.39
+  Note: C3, Time: 27.98s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 27.98s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 27.98s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 27.98s, Duration: 0.25s, Velocity: 0.39
+  Note: B4, Time: 27.98s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 27.98s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 27.98s, Duration: 0.25s, Velocity: 0.39
+  Note: C3, Time: 28.48s, Duration: 1.01s, Velocity: 0.39
+  Note: G5, Time: 28.48s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 28.73s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 28.73s, Duration: 0.25s, Velocity: 0.39
+  Note: C5, Time: 28.98s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 28.98s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 29.23s, Duration: 0.25s, Velocity: 0.39
+  Note: B5, Time: 29.23s, Duration: 0.25s, Velocity: 0.39
+  Note: E3, Time: 29.48s, Duration: 0.25s, Velocity: 0.39
+  Note: G3, Time: 29.48s, Duration: 0.25s, Velocity: 0.39
+  Note: B3, Time: 29.48s, Duration: 0.25s, Velocity: 0.39
+  Note: E4, Time: 29.48s, Duration: 0.25s, Velocity: 0.39
+  Note: D5, Time: 29.48s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 29.48s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 30.00s, Duration: 0.25s, Velocity: 0.39
+  Note: F#3, Time: 30.00s, Duration: 0.25s, Velocity: 0.39
+  Note: A3, Time: 30.00s, Duration: 0.25s, Velocity: 0.39
+  Note: D4, Time: 30.00s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 30.25s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 30.25s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 30.25s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 30.25s, Duration: 0.50s, Velocity: 0.39
+  Note: G5, Time: 30.50s, Duration: 0.25s, Velocity: 0.39
+  Note: D3, Time: 30.75s, Duration: 0.50s, Velocity: 0.39
+  Note: F#3, Time: 30.75s, Duration: 0.50s, Velocity: 0.39
+  Note: A3, Time: 30.75s, Duration: 0.50s, Velocity: 0.39
+  Note: D4, Time: 30.75s, Duration: 0.50s, Velocity: 0.39
+  Note: B5, Time: 30.75s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 31.00s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 31.00s, Duration: 0.25s, Velocity: 0.39
+  Note: A5, Time: 31.25s, Duration: 0.25s, Velocity: 0.39
+  Note: G5, Time: 31.50s, Duration: 0.25s, Velocity: 0.39
+
+
+

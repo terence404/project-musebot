@@ -1,0 +1,6 @@
+{
+  "name": "project-musebot",
+  "description": "Continue existing midi tracks in specific styles, or make one from scratch with the help of AI",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

@@ -21,6 +21,9 @@ This project relies on the Gemini API. To run it locally, you will need to gener
 For free-tier usage, the application is designed to work optimally when deployed on cloud services like Google AI Studio, which has a different usage model.
 
 
+### A Note on the UI
+To achieve a polished result within a 24-hour rapid prototyping challenge, I strategically leveraged AI-powered tools for scaffolding some of the UI components, which I then customized, refined, and integrated into the Svelte/Tauri application.
+
 
 ## **Prerequisites:**
   Node.js 
@@ -30,5 +33,3 @@ For free-tier usage, the application is designed to work optimally when deployed
   3. Run the app: `npm run dev`
 
 
-### A Note on the UI
-To achieve a polished result within a 24-hour rapid prototyping challenge, I strategically leveraged AI-powered tools for scaffolding some of the UI components, which I then customized, refined, and integrated into the Svelte/Tauri application.

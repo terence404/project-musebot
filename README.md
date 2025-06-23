@@ -65,7 +65,7 @@ To achieve a polished result within a 24-hour rapid prototyping challenge, I str
 ```bash
 
   1. Install dependencies: `npm install`
-  2. # Create a .env.local file in the frontend directory with your Gemini API key:
+  2. Create a .env.local file in the frontend /src directory with your Gemini API key:
 
       #  GEMINI_API_KEY=YOUR_API_KEY_HERE
 
